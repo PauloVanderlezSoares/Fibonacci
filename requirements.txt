@@ -1,10 +1,13 @@
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1620387926260/work
+attrs==21.2.0
 certifi==2021.10.8
-iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1603384189793/work
-more-itertools @ file:///home/conda/feedstock_root/build_artifacts/more-itertools_1636526469270/work
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
-pluggy @ file:///Users/runner/miniforge3/conda-bld/pluggy_1635832939767/work
-py @ file:///home/conda/feedstock_root/build_artifacts/py_1636301881863/work
-pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1636757021002/work
+iniconfig==1.1.1
+more-itertools==8.11.0
+packaging==21.3
+pip==21.2.4
+pluggy==1.0.0
+py==1.11.0
+pyparsing==3.0.6
 pytest==6.2.5
-toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+setuptools==58.0.4
+toml==0.10.2
+wheel==0.37.0
